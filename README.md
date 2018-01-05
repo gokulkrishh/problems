@@ -11,6 +11,6 @@
 
 ## Array
 
-| Problems|     Solutions     |
-| :------------: | :----------: |
-| Jan 5 - Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|5-01-2018 | Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
