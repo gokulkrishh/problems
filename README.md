@@ -1,15 +1,15 @@
 # Data Structure and Algorithms Problems
 
-> One problem per day 🤪
+*One of my goal in 2018 is to get better at problem solving. Hence this repo 🤨*
 
-**One of my goal in 2018 is to get better at problem solving. Hence this repo 🤨**
+> One problem per day 🤪
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Problems | 1 |
 
 
-## Algorithms
+## Array
 
 | Problems|     Solutions     |
 | :------------: | :----------: |
