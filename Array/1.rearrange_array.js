@@ -1,4 +1,4 @@
-/* Problem 1: Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space
+/* Problem: Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space
 
   Given an array arr[] of size n where every element is in range from 0 to n-1.
   Rearrange the given array so that arr[i] becomes arr[arr[i]]. This should be done with O(1) extra space.
