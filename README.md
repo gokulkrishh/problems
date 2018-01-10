@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 4 |
+| Total Problems | 5 |
 
 
 ## Array
@@ -23,3 +23,4 @@
 ## Strings
 
 |Jan 9 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
+|Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
