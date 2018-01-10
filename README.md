@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Problems
 
-*One of my goal in 2018 is to get better at problem solving. Hence this repo* 🤨
+**One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨
 
 > One problem per day (Mostly weekdays) 🤪
 
