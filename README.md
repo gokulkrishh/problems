@@ -18,8 +18,12 @@
 
 ## Search
 
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
 |Jan 8 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
 
 ## Strings
 
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
 |Jan 9 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
