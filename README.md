@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 5 |
+| Total Problems | 6 |
 
 
 ## Array
@@ -15,6 +15,12 @@
 | :------------: | :------------: | :----------: |
 |Jan 5 | Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
 |Jan 6 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
+
+## Bit Manipulation
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Jan 11 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit Manipulation/1.number_of_1_bits.js)|
 
 ## Search
 
