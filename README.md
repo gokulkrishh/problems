@@ -2,7 +2,7 @@
 
 **One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨
 
-> Atleast one problem or more per day (Mostly weekdays) 🤪
+> Atleast one problem per day (Mostly weekdays) 🤪
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
