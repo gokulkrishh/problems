@@ -39,4 +39,4 @@
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Jan 18 | Given 2 sorted arrays, find all the elements which occur in both the arrays. | [Intersection Of Sorted Arrays](Two Pointers/1.intersection_of_sorted_arrays)|
+|Jan 18 | Given 2 sorted arrays, find all the elements which occur in both the arrays. | [Intersection Of Sorted Arrays](Two%20Pointers/1.intersection_of_sorted_arrays.js)|
