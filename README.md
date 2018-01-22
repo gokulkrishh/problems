@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 8 |
+| Total Problems | 9 |
 
 
 ## Array
@@ -22,6 +22,12 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit Manipulation/1.number_of_1_bits.js)|
+
+## Linked List
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
 
 ## Search
 
