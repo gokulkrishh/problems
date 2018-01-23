@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 9 |
+| Total Problems | 10 |
 
 
 ## Array
@@ -34,6 +34,12 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 8 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
+
+## Stack and Queues
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Jan 23 | Evaluate the value of an arithmetic expression in Reverse Polish Notation. | [Evaluate Expression](Stack%20And%20Queues/1.evaluate_expression.js)|
 
 ## Strings
 
