@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 10 |
+| Total Problems | 11 |
 
 
 ## Array
@@ -16,6 +16,7 @@
 |Jan 5 | Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
 |Jan 6 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
+|Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
 
 ## Bit Manipulation
 
