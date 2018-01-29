@@ -17,13 +17,19 @@
 |Jan 6 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
-|Jan 29 | Given an array of strings, return all groups of strings that are anagrams.| [Array of anagrams](Array/5.array_of_anagrams.js)|
+
 
 ## Bit Manipulation
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit%20Manipulation/1.number_of_1_bits.js)|
+
+## Hashing
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Jan 29 | Given an array of strings, return all groups of strings that are anagrams.| [Array of Anagrams](Hashing/1.array_of_anagrams.js)|
 
 ## Linked List
 
