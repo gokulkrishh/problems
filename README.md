@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 14 |
+| Total Problems | 15 |
 
 
 ## Array
@@ -61,6 +61,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Feb 5 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
+|Feb 8 | Given a binary tree, find its minimum depth. | [Max Depth Of Tree](Trees/2.min_depth_of_tree.js)|
 
 
 ## Two Pointers
