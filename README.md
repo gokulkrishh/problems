@@ -2,11 +2,11 @@
 
 **One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨
 
-> Atleast one problem per day (Mostly weekdays) 🤪
+> Atleast one problem a day, keeps your lazy brain away (Mostly weekdays) :P
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 15 |
+| Total Problems | 16 |
 
 
 ## Array
@@ -37,6 +37,7 @@
 | :------------: | :------------: | :----------: |
 |Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
 
+|Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists](Linked%20List/2.merge_two_linked_list.js)|
 ## Search
 
 | Date | Problems |     Solutions     |
