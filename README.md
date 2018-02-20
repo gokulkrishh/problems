@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 16 |
+| Total Problems | 17 |
 
 
 ## Array
@@ -38,6 +38,7 @@
 |Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
 
 |Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists](Linked%20List/2.merge_two_linked_list.js)|
+
 ## Search
 
 | Date | Problems |     Solutions     |
@@ -56,6 +57,7 @@
 | :------------: | :------------: | :----------: |
 |Jan 9 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
 |Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
+|Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
 
 ## Trees
 
