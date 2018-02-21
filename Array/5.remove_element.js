@@ -15,6 +15,7 @@
 
     Output: [2, 2] & length = 2
 
+    Reference: In Place Algorithm - https://en.wikipedia.org/wiki/In-place_algorithm
 */
 
 // Method 1 with out extra memory
