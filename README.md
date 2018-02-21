@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 17 |
+| Total Problems | 18 |
 
 
 ## Array
@@ -37,7 +37,9 @@
 | :------------: | :------------: | :----------: |
 |Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
 
-|Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists](Linked%20List/2.merge_two_linked_list.js)|
+|Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists Without Duplicates](Linked%20List/2.merge_two_linked_list_without_duplicates.js)|
+
+|Feb 21 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists With Duplicates](Linked%20List/3.merge_two_linked_list_with_duplicates.js)|
 
 ## Search
 
