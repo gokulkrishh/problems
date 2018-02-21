@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 18 |
+| Total Problems | 19 |
 
 
 ## Array
@@ -17,6 +17,7 @@
 |Jan 6 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
+|Feb 21 | Given an array and a value, remove all instances of that value in-place and return the new length.| [Remove Element](Array/5.remove_element.js)|
 
 
 ## Bit Manipulation
