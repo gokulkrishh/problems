@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 19 |
+| Total Problems | 20 |
 
 
 ## Array
@@ -61,6 +61,7 @@
 |Jan 9 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
 |Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
 |Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
+|Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
 
 ## Trees
 
