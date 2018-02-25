@@ -30,6 +30,6 @@ function flatten(arr) {
 
 Array.prototype.flatten = function () {
   return this.reduce((acc, val) => {
-    return acc.concat(Array.isArray(val) ? flattenArray(val) : val);
+    return acc.concat(Array.isArray(val) ? flatten(val) : val);
   }, []);
 }
