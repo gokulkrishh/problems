@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 20 |
+| Total Problems | 21 |
 
 
 ## Array
@@ -18,7 +18,6 @@
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
 |Feb 21 | Given an array and a value, remove all instances of that value in-place and return the new length.| [Remove Element](Array/5.remove_element.js)|
-
 
 ## Bit Manipulation
 
@@ -37,9 +36,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
-
 |Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists Without Duplicates](Linked%20List/2.merge_two_linked_list_without_duplicates.js)|
-
 |Feb 21 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists With Duplicates](Linked%20List/3.merge_two_linked_list_with_duplicates.js)|
 
 ## Search
@@ -62,6 +59,7 @@
 |Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
 |Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
 |Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
+|Feb 26 | Convert a non-negative integer to its english words representation. | [Number To Words](Strings/5.number_to_words.js)|
 
 ## Trees
 
