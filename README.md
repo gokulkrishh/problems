@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 21 |
+| Total Problems | 22 |
 
 
 ## Array
@@ -38,6 +38,12 @@
 |Jan 22 | Reverse a linked list. Do it in-place and in one-pass. | [Reverse A Linked List](Linked%20List/1.reverse_a_linked_list.js)|
 |Feb 12 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists Without Duplicates](Linked%20List/2.merge_two_linked_list_without_duplicates.js)|
 |Feb 21 | Merge two sorted linked lists and return it as a new list. | [Merge Two Sorted Linked Lists With Duplicates](Linked%20List/3.merge_two_linked_list_with_duplicates.js)|
+
+## Numbers
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Feb 26 | Given a non-negative integer represented as a non-empty array of digits, plus one to the integer. | [Plus One](Numbers/1.plus_one.js)|
 
 ## Search
 
