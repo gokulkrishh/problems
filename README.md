@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 23 |
+| Total Problems | 24 |
 
 
 ## Array
@@ -72,7 +72,9 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Feb 5 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
-|Feb 8 | Given a binary tree, find its minimum depth. | [Max Depth Of Tree](Trees/2.min_depth_of_tree.js)|
+|Feb 8 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
+|Feb 27 | GGiven a non-empty special binary tree consisting of nodes with the non-negative value,
+  where each node in this tree has exactly two or zero sub-node. | [Max Depth Of Tree](Trees/3.find_second_minimum_node.js)|
 
 
 ## Two Pointers
