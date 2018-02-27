@@ -42,6 +42,6 @@ findIntersection([1 2 3 3 4 5 6], [3 5]); // [3, 5]
 
 /* Complexity:
 
-  Time Complexity: O(m+n)
+  Time Complexity: O(M+N), M = A, N = B
 
 */
