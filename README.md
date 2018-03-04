@@ -6,15 +6,15 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 25 |
+| Total Problems | 26 |
 
 
 ## Array
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Jan 5 | Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
-|Jan 6 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
+|Jan 05 | Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space (auxiliary space).| [Rearrange Array](Array/1.rearrange_array.js)|
+|Jan 06 | Given a list of non negative integers, arrange them such that they form the largest number.| [Largest Formed Number](Array/2.largest_number.js)|
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
 |Feb 21 | Given an array and a value, remove all instances of that value in-place and return the new length.| [Remove Element](Array/5.remove_element.js)|
@@ -45,12 +45,13 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Feb 26 | Given a non-negative integer represented as a non-empty array of digits, plus one to the integer. | [Plus One](Numbers/1.plus_one.js)|
+|Mar 04 | Given a positive integer n and you can do operations as follow, n/2 if even and n - 1 or n + 1 if odd  | [Plus One](Numbers/2.integer_replacement.js)|
 
 ## Search
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Jan 8 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
+|Jan 08 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
 
 ## Stack and Queues
 
@@ -62,7 +63,7 @@
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Jan 9 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
+|Jan 09 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
 |Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
 |Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
 |Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
@@ -72,8 +73,8 @@
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Feb 5 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
-|Feb 8 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
+|Feb 05 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
+|Feb 08 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
 |Feb 27 | GGiven a non-empty special binary tree consisting of nodes with the non-negative value,
   where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
 
