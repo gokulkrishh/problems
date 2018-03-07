@@ -4,9 +4,9 @@
 
 > Atleast one problem a day, keeps your lazy brain away (Mostly weekdays) :P
 
-| Current Status | Day    |     Problems  |
-| :------------: | :----: | :----------:  |
-| Total Problems |  25    |      27       |
+| Day    | Total Problems  |
+| :----: | :-------------: |
+|  25    |      27         |
 
 
 ## Array
