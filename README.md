@@ -6,7 +6,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Problems | 26 |
+| Total Problems | 27 |
 
 
 ## Array
@@ -45,7 +45,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Feb 26 | Given a non-negative integer represented as a non-empty array of digits, plus one to the integer. | [Plus One](Numbers/1.plus_one.js)|
-|Mar 04 | Given a positive integer n and you can do operations as follow, n/2 if even and n - 1 or n + 1 if odd  | [Plus One](Numbers/2.integer_replacement.js)|
+|Mar 04 | Given a positive integer n and you can do operations as follow, n/2 if even and n - 1 or n + 1 if odd  | [Integer Replacement](Numbers/2.integer_replacement.js)|
 
 ## Search
 
@@ -75,8 +75,9 @@
 | :------------: | :------------: | :----------: |
 |Feb 05 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
 |Feb 08 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
-|Feb 27 | GGiven a non-empty special binary tree consisting of nodes with the non-negative value,
+|Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value,
   where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
+|Mar 07 | Given a binary tree, determine if it is height-balanced. | [Balanced Tree](Trees/4.is_balanced_tree.js)|
 
 
 ## Two Pointers
