@@ -75,8 +75,7 @@
 | :------------: | :------------: | :----------: |
 |Feb 05 | Given a binary tree, find its maximum depth. | [Max Depth Of Tree](Trees/1.max_depth_of_tree.js)|
 |Feb 08 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
-|Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value,
-  where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
+|Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
 |Mar 07 | Given a binary tree, determine if it is height-balanced. | [Balanced Tree](Trees/4.is_balanced_tree.js)|
 
 
