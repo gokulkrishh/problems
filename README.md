@@ -6,7 +6,7 @@
 
 | Current Status | Day    |     Problems  |
 | :------------: | :----: | :----------:  |
-| Total Problems |  24    |      27       |
+| Total Problems |  25    |      27       |
 
 
 ## Array
