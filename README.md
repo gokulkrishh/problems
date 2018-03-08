@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  25    |      28         |
+|  26    |      29         |
 
 
 ## Array
@@ -18,6 +18,7 @@
 |Jan 19 | Flatten the given array.| [Flatten Multiple Level Array](Array/3.flatten_array.js)|
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
 |Feb 21 | Given an array and a value, remove all instances of that value in-place and return the new length.| [Remove Element](Array/5.remove_element.js)|
+|Mar 08 | Given scores of N athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal". | [Find Relative Winners](Array/6.find_relative_winners.js)|
 
 ## Bit Manipulation
 
