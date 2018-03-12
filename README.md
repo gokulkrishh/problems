@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  26    |      29         |
+|  27    |      30         |
 
 
 ## Array
@@ -19,6 +19,7 @@
 |Jan 24 | Wave the given array.| [Wave Array](Array/4.wave_array.js)|
 |Feb 21 | Given an array and a value, remove all instances of that value in-place and return the new length.| [Remove Element](Array/5.remove_element.js)|
 |Mar 08 | Given scores of N athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal". | [Find Relative Winners](Array/6.find_relative_winners.js)|
+|Mar 12 | In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data. | [Find Relative Winners](Array/7.reshape_matrix.js)|
 
 ## Bit Manipulation
 
