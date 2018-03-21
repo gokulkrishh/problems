@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  28    |      31         |
+|  29    |      32         |
 
 
 ## Array
@@ -72,6 +72,7 @@
 |Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
 |Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
 |Feb 26 | Convert a non-negative integer to its english words representation. | [Number To Words](Strings/5.number_to_words.js)|
+|Mar 21 | You are given a string representing an attendance record for a student. The record only contains the following three characters: | [Students Attendance](Strings/6.students_attendance.js)|
 
 ## Trees
 
