@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  30    |      34         |
+|  30    |      35         |
 
 
 ## Array
@@ -83,6 +83,7 @@
 |Feb 08 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
 |Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
 |Mar 07 | Given a binary tree, determine if it is height-balanced. | [Balanced Tree](Trees/4.is_balanced_tree.js)|
+|Mar 22 | Check if given binary tree is BST or not. | [Balanced Tree](Trees/5.check_tree_is_bst.js)|
 
 
 ## Two Pointers
