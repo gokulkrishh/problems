@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  30    |      35         |
+|  31    |      36         |
 
 
 ## Array
@@ -84,6 +84,7 @@
 |Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
 |Mar 07 | Given a binary tree, determine if it is height-balanced. | [Balanced Tree](Trees/4.is_balanced_tree.js)|
 |Mar 22 | Check if given binary tree is BST or not. | [Balanced Tree](Trees/5.check_tree_is_bst.js)|
+|Mar 23 | Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. | [Lowest Common Ancestor](Trees/6.lowest_common_ancestor.js)|
 
 
 ## Two Pointers
