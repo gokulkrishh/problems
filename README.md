@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  32    |      38         |
+|  32    |      39         |
 
 
 ## Array
@@ -87,6 +87,7 @@
 |Mar 23 | Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. | [Lowest Common Ancestor Of BST](Trees/6.lowest_common_ancestor_bst.js)|
 |Mar 23 | Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the BT. | [Lowest Common Ancestor Of BT](Trees/7.lowest_common_ancestor_bt.js)|
 |Mar 25 | Given two binary trees, write a function to check if they are the same or not. | [Same Tree Or Not](Trees/8.same_tree.js)|
+|Mar 25 | Given a binary trees, invert it. | [Invert Binary Tree](Trees/9.invert_binary_tree.js)|
 
 
 ## Two Pointers
