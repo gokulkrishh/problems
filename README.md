@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  32    |      40         |
+|  33    |      41         |
 
 
 ## Array
@@ -75,6 +75,7 @@
 |Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
 |Feb 26 | Convert a non-negative integer to its english words representation. | [Number To Words](Strings/5.number_to_words.js)|
 |Mar 21 | You are given a string representing an attendance record for a student. The record only contains the following three characters: | [Students Attendance](Strings/6.students_attendance.js)|
+|Mar 26 | Given a string, that contains special character together with alphabets (‘a’ to ‘z’ and ‘A’ to ‘Z’), reverse the string in a way that special characters are not affected. | [String Reversal With Special Characters](Strings/7.string_reversal_without_changing_special.js)|
 
 ## Trees
 
