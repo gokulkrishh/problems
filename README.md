@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  33    |      41         |
+|  34    |      43         |
 
 
 ## Array
@@ -90,6 +90,8 @@
 |Mar 23 | Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the BT. | [Lowest Common Ancestor Of BT](Trees/7.lowest_common_ancestor_bt.js)|
 |Mar 25 | Given two binary trees, write a function to check if they are the same or not. | [Same Tree Or Not](Trees/8.same_tree.js)|
 |Mar 25 | Given a binary trees, invert it. | [Invert Binary Tree](Trees/9.invert_binary_tree.js)|
+|Mar 26 | Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). | [Symmetric Tree](Trees/10.symmetric_tree.js)|
+|Mar 27 | Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level). | [Level Order Traversal](Trees/11.print_values_in_level_order.js)|
 
 
 ## Two Pointers
