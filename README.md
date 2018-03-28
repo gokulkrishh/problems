@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  34    |      43         |
+|  35    |      44         |
 
 
 ## Array
@@ -21,6 +21,7 @@
 |Mar 08 | Given scores of N athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal". | [Find Relative Winners](Array/6.find_relative_winners.js)|
 |Mar 12 | In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data. | [Reshape To Matrix](Array/7.reshape_matrix.js)|
 |Mar 25 | Given an array of integers of size ‘n’. Calculate the maximum sum of ‘k’ consecutive elements in the array. | [Max Sum Of K Elements](Array/8.max_k_elements_in_array.js)|
+|Mar 28 | Given an array of integers, every element appears twice except for one. Find that single one. | [Find Single Number](Array/9.single_number.js)|
 
 ## Bit Manipulation
 

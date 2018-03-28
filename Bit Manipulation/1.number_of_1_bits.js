@@ -19,7 +19,6 @@ function findNoOneBits(A) {
   var count = 0;
   var total = 0;
   while (count < binaryNo.length) {
-    console.log("binaryNo[count] ", binaryNo[count])
     if (binaryNo[count] === "1") {
       total += 1;
     }
