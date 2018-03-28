@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  35    |      44         |
+|  35    |      45         |
 
 
 ## Array
@@ -22,6 +22,7 @@
 |Mar 12 | In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data. | [Reshape To Matrix](Array/7.reshape_matrix.js)|
 |Mar 25 | Given an array of integers of size ‘n’. Calculate the maximum sum of ‘k’ consecutive elements in the array. | [Max Sum Of K Elements](Array/8.max_k_elements_in_array.js)|
 |Mar 28 | Given an array of integers, every element appears twice except for one. Find that single one. | [Find Single Number](Array/9.single_number.js)|
+|Mar 28 | Find the maximum area of an island in the given 2D array. (If there is no island, the maximum area is 0.) | [Area of Island (2D Array)](Array/10.area_of_island.js)|
 
 ## Bit Manipulation
 
