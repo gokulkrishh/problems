@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  35    |      45         |
+|  36    |      46         |
 
 
 ## Array
@@ -23,6 +23,7 @@
 |Mar 25 | Given an array of integers of size ‘n’. Calculate the maximum sum of ‘k’ consecutive elements in the array. | [Max Sum Of K Elements](Array/8.max_k_elements_in_array.js)|
 |Mar 28 | Given an array of integers, every element appears twice except for one. Find that single one. | [Find Single Number](Array/9.single_number.js)|
 |Mar 28 | Find the maximum area of an island in the given 2D array. (If there is no island, the maximum area is 0.) | [Area of Island (2D Array)](Array/10.area_of_island.js)|
+|Mar 29 | Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array. | [Find the Missing Number](Array/11.missing_number.js)|
 
 ## Bit Manipulation
 
@@ -73,7 +74,7 @@
 | :------------: | :------------: | :----------: |
 |Jan 09 | Write a function to find the longest common prefix string amongst an array of strings. | [Longest Common Prefix](Strings/1.longest_common_prefix.js)|
 |Jan 10 | Find if Given number is power of 2 or not (number can be greater than 2 ^ 64). | [Power of 2](Strings/2.power_of_2.js)|
-|Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Power of 2](Strings/3.excel_sheet_column_title.js)|
+|Feb 20 | Given a positive integer, return its corresponding column title as appear in an Excel sheet. | [Excel Sheet Column Title](Strings/3.excel_sheet_column_title.js)|
 |Feb 22 | Given an array of strings, group anagrams together. | [Group Of Anagrams](Strings/4.group_of_anagrams.js)|
 |Feb 26 | Convert a non-negative integer to its english words representation. | [Number To Words](Strings/5.number_to_words.js)|
 |Mar 21 | You are given a string representing an attendance record for a student. The record only contains the following three characters: | [Students Attendance](Strings/6.students_attendance.js)|
@@ -87,7 +88,7 @@
 |Feb 08 | Given a binary tree, find its minimum depth. | [Min Depth Of Tree](Trees/2.min_depth_of_tree.js)|
 |Feb 27 | Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly two or zero sub-node. | [Find Second Minimum Node](Trees/3.find_second_minimum_node.js)|
 |Mar 07 | Given a binary tree, determine if it is height-balanced. | [Balanced Tree](Trees/4.is_balanced_tree.js)|
-|Mar 22 | Check if given binary tree is BST or not. | [Balanced Tree](Trees/5.check_tree_is_bst.js)|
+|Mar 22 | Check if given binary tree is BST or not. | [Check Tree is BST](Trees/5.check_tree_is_bst.js)|
 |Mar 23 | Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. | [Lowest Common Ancestor Of BST](Trees/6.lowest_common_ancestor_bst.js)|
 |Mar 23 | Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the BT. | [Lowest Common Ancestor Of BT](Trees/7.lowest_common_ancestor_bt.js)|
 |Mar 25 | Given two binary trees, write a function to check if they are the same or not. | [Same Tree Or Not](Trees/8.same_tree.js)|
