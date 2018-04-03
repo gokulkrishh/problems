@@ -1,26 +1,37 @@
 /* Problem: Check if given binary tree is BST or not.
 
-  Note: BST is a binary tree where left value is always < root and right value is >= root
+  Note: Assume a BST is defined as follows:
 
-  Example:
+  1. The left subtree of a node contains only nodes with keys less than the node's key.
+  2. The right subtree of a node contains only nodes with keys greater than the node's key.
+  3. Both the left and right subtrees must also be binary search trees.
+
+  Example 1:
        9
       / \
-     6   9
+     6   10
         /  \
-      15   10
+      7    12
+
+  Output: True
+  
+  Example 2:
+       9
+      / \
+     6   10
+        /  \
+      5    12
 
   Output: False
-
-  Explanation: From root, Right node's child left node has value > its parent node
 */
 
-// Idea here is traverse each node and see the condition left > root || right <= root;
+// Idea here is traverse each node with max & min value
 
-var isBST = function (root) {
+var isBST = function (root, min, max) {
   if (!root) return true;
-  if (root.right != null && root.right.val <= root.val) return false;
-  if (root.left != null && root.left.val > root.val) return false;
-  return isBST(root.left) && isBST(root.right);
+  if (min != null && root.val <= min) return false;
+  if (max != null && root.val >= max) return false;
+  return isBST(root.left, min, root) && isBST(root.right, root, max);
 };
 
 var root = {
