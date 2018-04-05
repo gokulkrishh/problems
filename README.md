@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  37    |      47         |
+|  38    |      48         |
 
 
 ## Array
@@ -25,6 +25,7 @@
 |Mar 28 | Find the maximum area of an island in the given 2D array. (If there is no island, the maximum area is 0.) | [Area of Island (2D Array)](Array/10.area_of_island.js)|
 |Mar 29 | Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array. | [Find the Missing Number](Array/11.missing_number.js)|
 |Apr 03 | Given an integer array with even length, where different numbers in this array represent different kinds of candies. Each number means one candy of the corresponding kind. You need to distribute these candies equally in number to brother and sister. Return the maximum number of kinds of candies the sister could gain. | [Distribute Candies](Array/12.distribute_candies.js)|
+|Apr 05 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutives Ones](Array/13.max_consecutives_ones.js)|
 
 ## Bit Manipulation
 
