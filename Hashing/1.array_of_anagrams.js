@@ -18,13 +18,14 @@
 */
 
 
-function findAnagram(A) {
-  if (A.length === 0) return [];
+function findAnagram(arr) {
+  var temp = [];
+  if (arr.length === 0) return temp;
   var obj = {};
 
-  A.map(function (str, index) {
+  arr.forEach((str, index) => {
     var sortedStr = str.split("").sort().join("");
-
+    
     if (obj[sortedStr]) {
       obj[sortedStr].push(index + 1);
     }
