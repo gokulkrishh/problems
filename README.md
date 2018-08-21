@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  39    |      49         |
+|  40    |      50         |
 
 
 ## Array
@@ -64,6 +64,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 08 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
+|Aug 21 | Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. | [Count Element Occurence](Search/2.search_insert_position.js)|
 
 ## Stack and Queues
 
