@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  40    |      50         |
+|  41    |      51         |
 
 
 ## Array
@@ -83,6 +83,7 @@
 |Feb 26 | Convert a non-negative integer to its english words representation. | [Number To Words](Strings/5.number_to_words.js)|
 |Mar 21 | You are given a string representing an attendance record for a student. The record only contains the following three characters: | [Students Attendance](Strings/6.students_attendance.js)|
 |Mar 26 | Given a string, that contains special character together with alphabets (‘a’ to ‘z’ and ‘A’ to ‘Z’), reverse the string in a way that special characters are not affected. | [String Reversal With Special Characters](Strings/7.string_reversal_without_changing_special.js)|
+|Aug 23 | Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string. | [Length Of Last Words](Strings/8.length_of_last_word.js)|
 
 ## Trees
 
