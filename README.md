@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  41    |      51         |
+|  42    |      52         |
 
 
 ## Array
@@ -100,6 +100,7 @@
 |Mar 25 | Given a binary trees, invert it. | [Invert Binary Tree](Trees/9.invert_binary_tree.js)|
 |Mar 26 | Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). | [Symmetric Tree](Trees/10.symmetric_tree.js)|
 |Mar 27 | Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level). | [Level Order Traversal](Trees/11.print_values_in_level_order.js)|
+|Aug 27 | Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum. | [Has Path Sum](Trees/12.path_sum.js)|
 
 
 ## Two Pointers
