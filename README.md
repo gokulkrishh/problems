@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  42    |      52         |
+|  43    |      53         |
 
 
 ## Array
@@ -65,6 +65,7 @@
 | :------------: | :------------: | :----------: |
 |Jan 08 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(log n). | [Count Element Occurence](Search/1.count_element_occurence.js)|
 |Aug 21 | Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. | [Search Insert Position](Search/2.search_insert_position.js)|
+|Aug 29 | Given an integer n, return the number of trailing zeroes in n!. | [Trailing Factorial Zeros](Search/3.trailing_factorial_zeros.js)|
 
 ## Stack and Queues
 
