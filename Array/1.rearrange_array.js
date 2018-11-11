@@ -16,20 +16,42 @@
 
 */
 
+// Solution #1 with extra O(N) space
 function rearrangeArray(arr) {
-  if (arr.length === 0) return arr;
+	var temp = [];
 
-  var n = arr.length;
+	arr.forEach((e, i) => {
+		temp[i] = arr[e];
+	});
 
-  for (var i = 0; i < n; i++) {
-    arr[i] += ((arr[arr[i]] % n) * n); // % by n and * by n will give me new value.
-  }
+	return temp;
+}
 
-  for (var i = 0; i < n; i++) {
-    arr[i] = parseInt(arr[i] / n); // dividing by n will ans and % by n will old values from arr.
-  }
+rearrangeArray([3, 2, 0, 1]); // [1, 0, 3, 2]
 
-  return arr;
+/* Complexity:
+
+  Time Complexity: O(n)
+
+  Space Complexity; O(n)
+
+*/
+
+// Solution #2
+function rearrangeArray(arr) {
+	if (arr.length === 0) return arr;
+
+	var n = arr.length;
+
+	for (var i = 0; i < n; i++) {
+		arr[i] += (arr[arr[i]] % n) * n; // % by n and * by n will give me a new value.
+	}
+
+	for (var i = 0; i < n; i++) {
+		arr[i] = parseInt(arr[i] / n); // dividing by n will be the ans and % by n will the old value.
+	}
+
+	return arr;
 }
 
 rearrangeArray([3, 2, 0, 1]); // [1, 0, 3, 2]
