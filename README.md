@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  46    |      56         |
+|  47    |      57         |
 
 
 ## Array
@@ -87,7 +87,8 @@
 |Mar 21 2018 | You are given a string representing an attendance record for a student. The record only contains the following three characters: | [Students Attendance](Strings/6.students_attendance.js)|
 |Mar 26 2018 | Given a string, that contains special character together with alphabets (‘a’ to ‘z’ and ‘A’ to ‘Z’), reverse the string in a way that special characters are not affected. | [String Reversal With Special Characters](Strings/7.string_reversal_without_changing_special.js)|
 |Aug 23 2018 | Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string. | [Length Of Last Words](Strings/8.length_of_last_word.js)|
-|Oct 30 2018 | Given a string, find the length of the longest substring without repeating characters.. | [Find Longest SubString](Strings/9.8.longest_substr.js)|
+|Oct 30 2018 | Given a string, find the length of the longest substring without repeating characters. | [Find Longest SubString](Strings/9.longest_substr.js)|
+|Nov 15 2018 | Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1. | [First Unique Character](Strings/10.first_uniq_char.js)|
 
 ## Trees
 
