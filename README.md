@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  49    |      59         |
+|  50    |      60         |
 
 
 ## Array
@@ -91,6 +91,7 @@
 |Aug 23 2018 | Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string. | [Length Of Last Words](Strings/8.length_of_last_word.js)|
 |Oct 30 2018 | Given a string, find the length of the longest substring without repeating characters. | [Find Longest SubString](Strings/9.longest_substr.js)|
 |Nov 15 2018 | Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1. | [First Unique Character](Strings/10.first_uniq_char.js)|
+|Nov 28 2018 | Implement strStr(). Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. | [Implement strStr()](Strings/11.strStr.js)|
 
 ## Trees
 
