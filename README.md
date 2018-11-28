@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  50    |      60         |
+|  50    |      61         |
 
 
 ## Array
@@ -60,6 +60,7 @@
 |Feb 26 2018 | Given a non-negative integer represented as a non-empty array of digits, plus one to the integer. | [Plus One](Numbers/1.plus_one.js)|
 |Mar 04 2018 | Given a positive integer n and you can do operations as follow, n/2 if even and n - 1 or n + 1 if odd  | [Integer Replacement](Numbers/2.integer_replacement.js)|
 |Nov 13 2018 | Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.  | [Majority Elements](Numbers/3.majority_elements.js)|
+|Nov 28 2018 | Given an integer, write a function to determine if it is a power of three.  | [Majority Elements](Numbers/4.power_of_3.js)|
 
 ## Search
 

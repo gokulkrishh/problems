@@ -30,6 +30,8 @@ var strStr = function(haystack, needle) {
   return -1; // When needle string not present in haystack
 };
 
+strStr("hello", "ll"); // 2
+
 // Time Complexity: O(N)
 // Space Complexity: O(1)
 
@@ -39,5 +41,7 @@ var strStr = function(haystack, needle) {
   if (!haystack) return 0;
   return haystack.indexOf(needle);
 };
+
+strStr("hello", "ll"); // 2
 
 // Time Complexity: O(N)
