@@ -1,7 +1,13 @@
 /*
-  Queues is 'linear data structure' which follows particular order operation
+  Queue is 'linear data structure' which follows particular order operation
 
   - FIFO (First In First Out)
+
+  Time Complexity for Queue:
+    - Access Θ(n)
+    - Search Θ(n)
+    - Insertion O(1)
+    - Deletion O(1)
 
 */
 

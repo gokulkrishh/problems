@@ -1,5 +1,5 @@
 /*
-  Priority Queues is similar to Queues with priorities (High, Low).
+  Priority Queue is similar to Queues with priorities (High, Low).
 */
 
 const createQueue = require('../Queue');

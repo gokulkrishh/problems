@@ -3,6 +3,12 @@
 
   - LIFO (Last In First Out)
 
+  Time Complexity for Stack:
+    - Access Θ(n)
+    - Search Θ(n)
+    - Insertion O(1)
+    - Deletion O(1)
+
 */
 
 function createStack() {
