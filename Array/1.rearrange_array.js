@@ -30,11 +30,8 @@ function rearrangeArray(arr) {
 rearrangeArray([3, 2, 0, 1]); // [1, 0, 3, 2]
 
 /* Complexity:
-
   Time Complexity: O(n)
-
   Space Complexity; O(n)
-
 */
 
 // Solution #2
@@ -57,11 +54,7 @@ function rearrangeArray(arr) {
 rearrangeArray([3, 2, 0, 1]); // [1, 0, 3, 2]
 
 /* Complexity:
-
   Time Complexity: O(n)
-
   Auxiliary Space: O(1)
-
   Space Complexity; O(n)
-
 */

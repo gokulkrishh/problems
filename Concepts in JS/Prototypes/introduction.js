@@ -6,6 +6,10 @@
     - That 'prototype' has 'its own prototype' and so on until it reach's null as its prototype.
     - After 'null' javascript will stop looking up.
 
+  Reference:
+    - https://tylermcginnis.com/beginners-guide-to-javascript-prototype/
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
 */
 
 // Example 1 - Animal Class using javascript functions
@@ -17,8 +21,10 @@ function Animal(name, type) {
   this.isHungry = true;
 }
 
-console.log(Animal.prototype); // Animal {}
-// When you declare a function, Javascript assigns its prototype as empty.
+console.log(Animal.prototype); // Animal { constructor: Animal }
+// When you declare a function, Javascript assigns its prototype with constructor.
+
+console.log(Animal.prototype.constructor == Animal); // True
 
 // Lets add properties & methods to Animal's prototype.
 Animal.prototype.isHungry = true;
@@ -29,6 +35,9 @@ Animal.prototype.feed = function() {
 
 // Using above Animal function to create a constructor function
 var dog = new Animal('Jack', 'Dog'); // 'this' in Animal refers to dog's 'this'
+
+console.log(dog.constructor == Animal); // True
+console.log(dog.__proto__ == Animal.prototype); // True
 
 console.log(dog.name); // is there a property called 'name' in dog? Yes then print it.
 // dog.name -> Jack

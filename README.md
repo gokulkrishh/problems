@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  50    |      61         |
+|  51    |      62         |
 
 
 ## Array
@@ -119,3 +119,9 @@
 |Jan 18 2018 | Given 2 sorted arrays, find all the elements which occur in both the arrays. | [Intersection Of Sorted Arrays](Two%20Pointers/1.intersection_of_sorted_arrays.js)|
 |Jan 30 2018 | Given a sorted array, remove the duplicates in place such that each element can appear atmost twice and return the new length. | [Remove Duplicates From Sorted Array](Two%20Pointers/2.remove_duplicate_from_array-2.js)|
 |Feb 27 2018 | Given 2 arrays, find all the elements which occur in both the arrays without sorting. | [Intersection Of Unsorted Arrays](Two%20Pointers/3.intersection_of_unsorted_arrays.js)|
+
+## In Place
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Dec 2 2018 | Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent. | [Sort Colours](In%20Place/1.sort_colours.js)|
