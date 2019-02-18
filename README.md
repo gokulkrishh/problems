@@ -38,7 +38,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 29 2018 | Given an array of strings, return all groups of strings that are anagrams.| [Array of Anagrams](Hashing/1.array_of_anagrams.js)|
-|Apr 09 2018 | International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on..| [Array of Anagrams](Hashing/2.unique_morse_codes.js)|
+|Apr 09 2018 | International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on..| [Unique Morse Codes](Hashing/2.unique_morse_codes.js)|
 
 ## Linked List
 
