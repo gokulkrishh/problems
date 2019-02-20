@@ -28,16 +28,28 @@ console.log(Animal.prototype.constructor == Animal); // True
 
 // Lets add properties & methods to Animal's prototype.
 Animal.prototype.isHungry = true;
+
 // All the animals sleep so lets a method called sleep
 Animal.prototype.feed = function() {
   console.log('Feeding', this.name);
 };
 
-// Using above Animal function to create a constructor function
-var dog = new Animal('Jack', 'Dog'); // 'this' in Animal refers to dog's 'this'
+// Without new keyword
+var dogWithoutNew = Animal('Jack','Dog'); // Wont return anything but sets this to window or undefined
 
-console.log(dog.constructor == Animal); // True
-console.log(dog.__proto__ == Animal.prototype); // True
+// This in Animal is assigned to window object,
+// If you add 'use-strict' at the top, this will be undefined.
+console.log(window.name); // Jack
+console.log(window.type); // Dog
+
+// With new keyword,
+// Creates an empty object, make that empty object as 'this' inside function Animal, so we can do something like 'this.name' or this.[anything] and return it.
+// Plus by calling with new keyword, anything we add to Animal.prototype is accessible via dog instance.
+var dog = new Animal('Jack', 'Dog'); // 'this' in Animal refers to dog's 'this' which is an empty object while creating it
+
+
+// After creating dog instance, its returns an object like below.
+console.log(dog); // { name: 'Jack', type: 'Dog', isHungry: true };
 
 console.log(dog.name); // is there a property called 'name' in dog? Yes then print it.
 // dog.name -> Jack
@@ -48,6 +60,12 @@ console.log(dog.isHungry); // true
 // is there a property called 'isHungry' in dog? Yes, then print it
 // dog.isHungry -> true
 // But there is `isHungry` property in Animal's prototype but it was not checked, this is called property shadowing in JS.
+
+// dog.constructor will be pointing to Animal since we used 'new Animal()'
+console.log(dog.constructor == Animal); // True
+
+// .__proto__ is magical link to access the prototype's properties & methods (Dont use __proto__)
+console.log(dog.__proto__ == Animal.prototype); // True
 
 console.log(dog.feed()); // Feeding Jack
 // is there a method called 'feed' in dog? No, then check in Animal's prototype? Yes its found, then call the method.

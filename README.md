@@ -1,12 +1,12 @@
 # Data Structure and Algorithms Problems
 
-**One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨
+**One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨 Now continuing in 2019 🤓.
 
-> Atleast one problem a day, keeps your lazy brain away (Mostly weekdays) :P
+> At least one problem a day, keeps your lazy brain away (Mostly weekdays) :P
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  51    |      62         |
+|  54    |      63         |
 
 
 ## Array
@@ -60,7 +60,8 @@
 |Feb 26 2018 | Given a non-negative integer represented as a non-empty array of digits, plus one to the integer. | [Plus One](Numbers/1.plus_one.js)|
 |Mar 04 2018 | Given a positive integer n and you can do operations as follow, n/2 if even and n - 1 or n + 1 if odd  | [Integer Replacement](Numbers/2.integer_replacement.js)|
 |Nov 13 2018 | Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.  | [Majority Elements](Numbers/3.majority_elements.js)|
-|Nov 28 2018 | Given an integer, write a function to determine if it is a power of three.  | [Majority Elements](Numbers/4.power_of_3.js)|
+|Nov 28 2018 | Given an integer, write a function to determine if it is a power of three.  | [Power of 3](Numbers/4.power_of_3.js)|
+|Feb 20 2019 | Count the number of prime numbers less than a non-negative number, n.  | [Count Primes](Numbers/5.count_primes.js)|
 
 ## Search
 
