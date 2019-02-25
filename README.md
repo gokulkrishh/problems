@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  54    |      63         |
+|  55    |      64         |
 
 
 ## Array
@@ -62,6 +62,7 @@
 |Nov 13 2018 | Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.  | [Majority Elements](Numbers/3.majority_elements.js)|
 |Nov 28 2018 | Given an integer, write a function to determine if it is a power of three.  | [Power of 3](Numbers/4.power_of_3.js)|
 |Feb 20 2019 | Count the number of prime numbers less than a non-negative number, n.  | [Count Primes](Numbers/5.count_primes.js)|
+|Feb 25 2019 | Implement atoi which converts a string to an integer.  | [String To Number](Numbers/6.string_to_integer.js)|
 
 ## Search
 
