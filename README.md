@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  55    |      64         |
+|  56    |      65         |
 
 
 ## Array
@@ -79,6 +79,7 @@
 |Mar 22 2018 | Evaluate the value of an arithmetic expression in Reverse Polish Notation. | [Evaluate Reverse Polish Notation](Stack%20And%20Queues/1.evaluate_reverse_polish_notation.js)|
 |Nov 12 2018 | Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. | [Design a stack](Stack%20And%20Queues/2.min_stack.js)|
 |Nov 17 2018 | Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. | [Is Valid Parentheses](Stack%20And%20Queues/3.valid_parentheses.js)|
+|Mar 11 2019 | Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. | [Is Valid Parentheses](Stack%20And%20Queues/4.daily_temperature.js)|
 
 ## Strings
 
