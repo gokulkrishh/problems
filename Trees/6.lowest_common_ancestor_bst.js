@@ -39,7 +39,7 @@ var lowestCommonAncestor = function (root, p, q) {
 var root = {
   val: 6,
   left: {
-    val: 2, left: { val: 0, right: null, left: null }, left: { val: 4, right: { val: 5, right: null, left: null }, left: { val: 3, right: null, left: null } }
+    val: 2, left: { val: 0, right: null, left: null }, right: { val: 4, right: { val: 5, right: null, left: null }, left: { val: 3, right: null, left: null } }
   },
   right: {
     val: 8, right: { left: null, val: 7, right: null }, left: { left: null, val: 9, right: null }
