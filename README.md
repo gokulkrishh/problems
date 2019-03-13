@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  58    |      67         |
+|  59    |      68         |
 
 
 ## Array
@@ -32,6 +32,13 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 2018 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit%20Manipulation/1.number_of_1_bits.js)|
+
+## Cache
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Mar 13 2019 | Implement LRU cache. | [Implement LRU cache](Cache/1.lru_cache.js)|
+
 
 ## Hashing
 
