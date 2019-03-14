@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  59    |      68         |
+|  60    |      70         |
 
 
 ## Array
@@ -26,6 +26,8 @@
 |Mar 29 2018 | Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array. | [Find the Missing Number](Array/11.missing_number.js)|
 |Apr 03 2018 | Given an integer array with even length, where different numbers in this array represent different kinds of candies. Each number means one candy of the corresponding kind. You need to distribute these candies equally in number to brother and sister. Return the maximum number of kinds of candies the sister could gain. | [Distribute Candies](Array/12.distribute_candies.js)|
 |Apr 05 2018 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutives Ones](Array/13.max_consecutives_ones.js)|
+|Mar 14 2019 | Return the lowest index at which a value (second argument) i.e **num** should be inserted into an array (first argument). | [Where do i belong](Array/14.where_do_i_belong.js)|
+|Mar 14 2019 | Find the container With Most Water | [Where do i belong](Array/15.water_container.js)|
 
 ## Bit Manipulation
 
