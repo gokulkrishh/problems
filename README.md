@@ -11,18 +11,18 @@
 ## Table of Contents
 
 - [Array](#array)
-- [Bit Manipulation](#Bit%20Manipulation)
+- [Bit Manipulation](#bit-manipulation)
 - [Cache](#cache)
 - [Concepts](./Concepts)
 - [Hashing](#hashing)
-- [In Place](#in%20place)
-- [Linked List](#linked%20list)
+- [In Place](#in-place)
+- [Linked List](#linked-list)
 - [Numbers](#numbers)
 - [Search](#search)
-- [Stack and Queues](#stack%20and%20queues)
+- [Stack and Queues](#stack-and-queues)
 - [Strings](#strings)
 - [Trees](#trees)
-- [Two Pointer](#two%20pointer)
+- [Two Pointer](#two-pointers)
 - [Trie (Prefix Tree)](#trie)
 
 
