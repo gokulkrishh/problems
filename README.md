@@ -8,6 +8,23 @@
 | :----: | :-------------: |
 |  61    |      71         |
 
+## Table of Contents
+
+- [Array](#array)
+- [Bit Manipulation](#Bit%20Manipulation)
+- [Cache](#cache)
+- [Concepts](./Concepts)
+- [Hashing](#hashing)
+- [In Place](#in%20place)
+- [Linked List](#linked%20list)
+- [Numbers](#numbers)
+- [Search](#search)
+- [Stack and Queues](#stack%20and%20queues)
+- [Strings](#strings)
+- [Trees](#trees)
+- [Two Pointer](#two%20pointer)
+- [Trie (Prefix Tree)](#trie)
+
 
 ## Array
 
@@ -49,6 +66,13 @@
 | :------------: | :------------: | :----------: |
 |Jan 29 2018 | Given an array of strings, return all groups of strings that are anagrams.| [Array of Anagrams](Hashing/1.array_of_anagrams.js)|
 |Apr 09 2018 | International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on..| [Unique Morse Codes](Hashing/2.unique_morse_codes.js)|
+
+## In Place
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Dec 2 2018 | Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent. | [Sort Colours](In%20Place/1.sort_colours.js)|
+
 
 ## Linked List
 
@@ -134,14 +158,8 @@
 |Jan 30 2018 | Given a sorted array, remove the duplicates in place such that each element can appear atmost twice and return the new length. | [Remove Duplicates From Sorted Array](Two%20Pointers/2.remove_duplicate_from_array-2.js)|
 |Feb 27 2018 | Given 2 arrays, find all the elements which occur in both the arrays without sorting. | [Intersection Of Unsorted Arrays](Two%20Pointers/3.intersection_of_unsorted_arrays.js)|
 
-## Trie (Prefix Tree)
+## Trie
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Mar 12 2019 | Implement a trie with insert, search, and startsWith methods. | [Implement Trie](Trie/1.intersection_of_sorted_arrays.js)|
-
-## In Place
-
-| Date | Problems |     Solutions     |
-| :------------: | :------------: | :----------: |
-|Dec 2 2018 | Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent. | [Sort Colours](In%20Place/1.sort_colours.js)|
