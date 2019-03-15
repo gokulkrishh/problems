@@ -26,7 +26,7 @@
 - [Trie (Prefix Tree)](#trie)
 
 
-## Array
+## [Array](./Array)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -47,34 +47,34 @@
 |Mar 14 2019 | Find the container With most water. | [Where do i belong](Array/15.water_container.js)|
 |Mar 15 2019 | Reverse Words in a String. | [Reverse Words in a String](Array/16.reverse_words.js)|
 
-## Bit Manipulation
+## [Bit Manipulation](./Bit%20Manipulation)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 2018 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit%20Manipulation/1.number_of_1_bits.js)|
 
-## Cache
+## [Cache](./Cache)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Mar 13 2019 | Implement LRU cache. | [Implement LRU cache](Cache/1.lru_cache.js)|
 
 
-## Hashing
+## [Hashing](./Hashing)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 29 2018 | Given an array of strings, return all groups of strings that are anagrams.| [Array of Anagrams](Hashing/1.array_of_anagrams.js)|
 |Apr 09 2018 | International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on..| [Unique Morse Codes](Hashing/2.unique_morse_codes.js)|
 
-## In Place
+## [In Place](./In%20Place)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Dec 2 2018 | Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent. | [Sort Colours](In%20Place/1.sort_colours.js)|
 
 
-## Linked List
+## [Linked List](./Linked%20List)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -87,7 +87,7 @@
 |Mar 22 2018 | Remove all elements from a linked list of integers that have value val. | [Remove elements in Linked List](Linked%20List/7.remove_val_linked_list.js)|
 |Nov 19 2018 | Given a sorted linked list, delete all duplicates such that each element appear only once. | [Remove duplicates in Linked List](Linked%20List/9.remove_duplicates.js)|
 
-## Numbers
+## [Numbers](./Numbers)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -98,7 +98,7 @@
 |Feb 20 2019 | Count the number of prime numbers less than a non-negative number, n.  | [Count Primes](Numbers/5.count_primes.js)|
 |Feb 25 2019 | Implement atoi which converts a string to an integer.  | [String To Number](Numbers/6.string_to_integer.js)|
 
-## Search
+## [Search](./Search)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -106,7 +106,7 @@
 |Aug 21 2018 | Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. | [Search Insert Position](Search/2.search_insert_position.js)|
 |Aug 29 2018 | Given an integer n, return the number of trailing zeroes in n!. | [Trailing Factorial Zeros](Search/3.trailing_factorial_zeros.js)|
 
-## Stack and Queues
+## [Stack and Queues](./Stack%20and%20Queues)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -115,7 +115,7 @@
 |Nov 17 2018 | Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. | [Is Valid Parentheses](Stack%20And%20Queues/3.valid_parentheses.js)|
 |Mar 11 2019 | Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. | [Is Valid Parentheses](Stack%20And%20Queues/4.daily_temperature.js)|
 
-## Strings
+## [Strings](./Strings)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -131,7 +131,7 @@
 |Nov 15 2018 | Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1. | [First Unique Character](Strings/10.first_uniq_char.js)|
 |Nov 28 2018 | Implement strStr(). Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. | [Implement strStr()](Strings/11.strStr.js)|
 
-## Trees
+## [Trees](./Trees)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -150,7 +150,7 @@
 |Mar 12 2019 | Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level). | [Level Order Traversal](Trees/13.level_order_traversal.js)|
 
 
-## Two Pointers
+## [Two Pointers](./Two%20Pointers)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
@@ -158,7 +158,7 @@
 |Jan 30 2018 | Given a sorted array, remove the duplicates in place such that each element can appear atmost twice and return the new length. | [Remove Duplicates From Sorted Array](Two%20Pointers/2.remove_duplicate_from_array-2.js)|
 |Feb 27 2018 | Given 2 arrays, find all the elements which occur in both the arrays without sorting. | [Intersection Of Unsorted Arrays](Two%20Pointers/3.intersection_of_unsorted_arrays.js)|
 
-## Trie
+## [Trie](./Trie)
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
