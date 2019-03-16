@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  62    |      72         |
+|  62    |      73         |
 
 ## Table of Contents
 
@@ -73,6 +73,7 @@
 | :------------: | :------------: | :----------: |
 |Jan 29 2018 | Given an array of strings, return all groups of strings that are anagrams.| [Array of Anagrams](Hashing/1.array_of_anagrams.js)|
 |Apr 09 2018 | International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on..| [Unique Morse Codes](Hashing/2.unique_morse_codes.js)|
+|Mar 16 2019 | Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place. | [Set Matrix Zeros](Hashing/3.set_matrix_zeros.js)|
 
 ## [In Place](./In%20Place)
 
