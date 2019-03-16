@@ -6,12 +6,13 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  61    |      71         |
+|  62    |      72         |
 
 ## Table of Contents
 
 - [Array](#array)
 - [Bit Manipulation](#bit-manipulation)
+- [BackTracking](#backtracking)
 - [Cache](#cache)
 - [Concepts](./Concepts)
 - [Hashing](#hashing)
@@ -52,6 +53,12 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 2018 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit%20Manipulation/1.number_of_1_bits.js)|
+
+## [BackTracking](./BackTracking)
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Mar 16 2019 | Given a 2D board and a word, find if the word exists in the grid. The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. | [Word Search in 2D](Bit%20Manipulation/1.word_search.js)|
 
 ## [Cache](./Cache)
 
