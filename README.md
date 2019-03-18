@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  62    |      74         |
+|  63    |      74         |
 
 ## Table of Contents
 
