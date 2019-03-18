@@ -10,44 +10,37 @@
 
 */
 
-function elementOccurence(arr, x) {
+function elementOccurence(arr, target) {
   if (arr.length === 0) return 0;
 
+  var firstIndex = -1;
+  var lastIndex = -1;
   var count = 0;
   var mid = Math.floor(arr.length / 2);
 
-  while (mid <= arr.length) {
-    if (x === arr[mid]) {
+  while (mid < arr.length) {
+    if (arr[mid] == target) {
+      firstIndex = mid - 1;
+      lastIndex = mid + 1;
+      count++;
       break;
-    }
-    else if (x < arr[mid]) {
-      mid -= 1;
-    }
-    else {
-      mid += 1;
-    }
+    } else if (arr[mid] > target) {
+      mid--;
+    } else mid++;
   }
 
-  var foundOrder = Math.floor(arr.length / 2);
-
-  while (foundOrder < arr.length) {
-    if (arr[foundOrder] === x) {
+  while (firstIndex > -1) {
+    if (arr[firstIndex] === target) {
       count++;
-      foundOrder++;
-    } else {
-      break;
-    }
+      firstIndex--;
+    } else break;
   }
 
-  foundOrder = Math.floor((arr.length / 2) - 1);
-
-  while (foundOrder > -1) {
-    if (arr[foundOrder] === x) {
+  while (lastIndex < arr.length) {
+    if (arr[lastIndex] === target) {
       count++;
-      foundOrder--;
-    } else {
-      break;
-    }
+      lastIndex++;
+    } else break;
   }
 
   return count;
@@ -55,8 +48,5 @@ function elementOccurence(arr, x) {
 
 elementOccurence([5, 7, 7, 8, 8, 10], 8); // 2
 
-/* Complexity:
-
-  Time Complexity: O(log n) - As we are using binary search method to find x
-
-*/
+// Complexity: Time Complexity: O(LOG N)
+// Space: O(1)
