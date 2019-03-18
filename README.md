@@ -1,7 +1,5 @@
 # Data Structure and Algorithms Problems
 
-**One of my goal in 2018 is to get better at problem solving. Hence this repo** 🤨 Now continuing in 2019 🤓.
-
 > At least one problem a day, keeps your lazy brain away (Mostly weekdays) :P
 
 | Day    | Total Problems  |
