@@ -57,7 +57,7 @@
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Mar 16 2019 | Given a 2D board and a word, find if the word exists in the grid. The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. | [Word Search in 2D](Bit%20Manipulation/1.word_search.js)|
+|Mar 16 2019 | Given a 2D board and a word, find if the word exists in the grid. The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. | [Word Search in 2D](BackTracking/1.word_search.js)|
 
 ## [Cache](./Cache)
 
