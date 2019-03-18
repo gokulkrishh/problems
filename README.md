@@ -6,7 +6,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  62    |      73         |
+|  62    |      74         |
 
 ## Table of Contents
 
@@ -53,6 +53,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Jan 11 2018 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Number of 1 BitsBookmark](Bit%20Manipulation/1.number_of_1_bits.js)|
+|Jan 11 2018 | Given a sorted array of integers, find the number of occurrences of a given target value (complexity should be O(number of ones). | [Sum Of Two Numbers](Bit%20Manipulation/2.sum_of_two_number.js)|
 
 ## [BackTracking](./BackTracking)
 

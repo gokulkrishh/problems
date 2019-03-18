@@ -15,11 +15,11 @@
 // Unoptimized version:
 
 function findNoOneBits(A) {
-  var binaryNo = (A).toString(2);
+  var binaryNo = A.toString(2);
   var count = 0;
   var total = 0;
   while (count < binaryNo.length) {
-    if (binaryNo[count] === "1") {
+    if (binaryNo[count] === '1') {
       total += 1;
     }
     count++;
@@ -33,7 +33,6 @@ findNoOneBits(1000000); // 7
 /*
   Time Complexity: O(n)
 */
-
 
 // Optimized version below:
 
