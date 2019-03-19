@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  63    |      74         |
+|  64    |      76         |
 
 ## Table of Contents
 
@@ -104,6 +104,7 @@
 |Nov 28 2018 | Given an integer, write a function to determine if it is a power of three.  | [Power of 3](Numbers/4.power_of_3.js)|
 |Feb 20 2019 | Count the number of prime numbers less than a non-negative number, n.  | [Count Primes](Numbers/5.count_primes.js)|
 |Feb 25 2019 | Implement atoi which converts a string to an integer.  | [String To Number](Numbers/6.string_to_integer.js)|
+|Mar 19 2019 | Write an algorithm to determine if a number is "happy".  | [Happy Number](Numbers/7.happy_numbers.js)|
 
 ## [Search](./Search)
 
@@ -164,6 +165,7 @@
 |Jan 18 2018 | Given 2 sorted arrays, find all the elements which occur in both the arrays. | [Intersection Of Sorted Arrays](Two%20Pointers/1.intersection_of_sorted_arrays.js)|
 |Jan 30 2018 | Given a sorted array, remove the duplicates in place such that each element can appear atmost twice and return the new length. | [Remove Duplicates From Sorted Array](Two%20Pointers/2.remove_duplicate_from_array-2.js)|
 |Feb 27 2018 | Given 2 arrays, find all the elements which occur in both the arrays without sorting. | [Intersection Of Unsorted Arrays](Two%20Pointers/3.intersection_of_unsorted_arrays.js)|
+|Mar 19 2019 | Given a string S and a character C, return an array of integers representing the shortest distance from the character C in the string. | [Shortest Distance to a Character](Two%20Pointers/4.shortest_distance_to_char.js)|
 
 ## [Trie](./Trie)
 

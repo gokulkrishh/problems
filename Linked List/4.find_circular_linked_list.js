@@ -24,8 +24,8 @@ function isCircular(node) {
   return true;
 }
 
-var list1 = { val: 1, next: { val: 2, next: { val: 1, next: { val: 2, ........ } } } };
-var list2 = { val: 1, next: { val: 2, next: { val: 3, next: null } } };
+var list1 = { val: 1, next: { val: 2, next: { val: 1, next: { val: 2, next: {} } } } }; // Circular list
+var list2 = { val: 1, next: { val: 2, next: { val: 3, next: null } } }; // Non Circular List
 
 isCircular(list1); // True
 isCircular(list2); // False
