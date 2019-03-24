@@ -92,7 +92,7 @@
 |Mar 07 2018 | Write a program to find the node at which the intersection of two singly linked lists begins. | [Intersection of two linked list](Linked%20List/5.intersection_of_two_inked_lists.js)|
 |Mar 15 2018 | Sort a linked list in O(n log n) time using constant space complexity. | [Sort Linked List](Linked%20List/6.sort_linked_list.js)|
 |Mar 22 2018 | Remove all elements from a linked list of integers that have value val. | [Remove elements in Linked List](Linked%20List/7.remove_val_linked_list.js)|
-|Nov 19 2018 | Given a sorted linked list, delete all duplicates such that each element appear only once. | [Remove duplicates in Linked List](Linked%20List/9.remove_duplicates.js)|
+|Nov 19 2018 | Given a sorted linked list, delete all duplicates such that each element appear only once. | [Remove duplicates in Linked List](Linked%20List/8.remove_duplicates.js)|
 
 ## [Numbers](./Numbers)
 
