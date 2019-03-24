@@ -172,4 +172,4 @@
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Mar 12 2019 | Implement a trie with insert, search, and startsWith methods. | [Implement Trie](Trie/1.intersection_of_sorted_arrays.js)|
+|Mar 12 2019 | Implement a trie with insert, search, and startsWith methods. | [Implement Trie](Trie/1.implement_trie_ds.js)|
