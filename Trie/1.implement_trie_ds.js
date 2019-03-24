@@ -24,7 +24,8 @@
     - Time Complexity: O(L), L is length of keys.
     - Apparently faster than BST
 
-  Disadvantes:
+  Dis-Advantages:
+    - Memory of trie. In the worst case, there is one node per character.
 
 */
 

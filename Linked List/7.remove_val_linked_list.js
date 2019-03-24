@@ -4,7 +4,7 @@
 
   Example:
     Input: 1 --> 2 --> 6 --> 3 --> 4 --> 5 --> 6, val = 6
-    Output:  --> 2 --> 3 --> 4 --> 5
+    Output: 1 --> 2 --> 3 --> 4 --> 5
 
   Tips: Idea here is to create new head with extra node (-1) in front and keep head ahead of new head, then if value found newNode.next = newNode.next.next;
 */
