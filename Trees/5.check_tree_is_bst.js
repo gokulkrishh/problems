@@ -27,11 +27,14 @@
 
 // Idea here is traverse each node with max & min value
 
-var isBST = function (root, left, right) {
+var isBST = function (root) {
   if (!root) return true;
+  var left = root.left;
+  var right = root.right;
   if (left && root.val <= left.val) return false;
   if (right && root.val >= right.val) return false;
-  return isBST(root.left, left, root) && isBST(root.right, root, right);
+  if (!isBST(root.left) || !isBST(root.right)) return false;
+  return true;
 };
 
 var root = {
