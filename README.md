@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  66    |      78         |
+|  66    |      79         |
 
 ## Table of Contents
 
@@ -140,6 +140,7 @@
 |Oct 30 2018 | Given a string, find the length of the longest substring without repeating characters. | [Find Longest SubString](Strings/9.longest_substr.js)|
 |Nov 15 2018 | Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1. | [First Unique Character](Strings/10.first_uniq_char.js)|
 |Nov 28 2018 | Implement strStr(). Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. | [Implement strStr()](Strings/11.strStr.js)|
+|Mar 24 2019 | Check whether two Strings are Anagram of each other. | [Check Anagram](Strings/12.check_if_two_string_are_anagram.js)|
 
 ## [Trees](./Trees)
 
