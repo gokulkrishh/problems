@@ -32,7 +32,7 @@ var stringReversal = function (str) {
       tempStr += str[i];
     }
     else if (j < tempArr.length) {
-      tempStr += str[j];
+      tempStr += tempArr[j];
       j++;
     }
   }
