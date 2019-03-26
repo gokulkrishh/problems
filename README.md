@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  66    |      78         |
+|  67    |      79         |
 
 ## Table of Contents
 
@@ -45,6 +45,7 @@
 |Mar 14 2019 | Return the lowest index at which a value (second argument) i.e **num** should be inserted into an array (first argument). | [Where do i belong](Array/14.where_do_i_belong.js)|
 |Mar 14 2019 | Find the container With most water. | [Water Container](Array/15.water_container.js)|
 |Mar 15 2019 | Reverse Words in a String. | [Reverse Words in a String](Array/16.reverse_words.js)|
+|Mar 26 2019 | Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.. | [Can Place Flowers](Array/17.flower_bed.js)|
 
 ## [Bit Manipulation](./Bit%20Manipulation)
 
