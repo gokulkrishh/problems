@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  68    |      80         |
+|  69    |      81         |
 
 ## Table of Contents
 
@@ -108,6 +108,7 @@
 |Feb 20 2019 | Count the number of prime numbers less than a non-negative number, n.  | [Count Primes](Numbers/5.count_primes.js)|
 |Feb 25 2019 | Implement atoi which converts a string to an integer.  | [String To Number](Numbers/6.string_to_integer.js)|
 |Mar 19 2019 | Write an algorithm to determine if a number is "happy".  | [Happy Number](Numbers/7.happy_numbers.js)|
+|Mar 28 2019 | Find All Numbers Disappeared in an Array.  | [Find Disappeared in an Array](Numbers/8.find_disappearing_numbers.js)|
 
 ## [Search](./Search)
 
