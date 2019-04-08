@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  69    |      81         |
+|  70    |      82         |
 
 ## Table of Contents
 
@@ -59,6 +59,7 @@
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
 |Mar 16 2019 | Given a 2D board and a word, find if the word exists in the grid. The word can be constructed from letters of sequentially adjacent cell, where "adjacent" cells are those horizontally or vertically neighboring. | [Word Search in 2D](BackTracking/1.word_search.js)|
+|Apr 08 2019 | Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'. | [Surrounded Area in 2D](BackTracking/2. surrounded_area.js)|
 
 ## [Cache](./Cache)
 
