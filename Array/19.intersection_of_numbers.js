@@ -36,5 +36,5 @@ function intersection(nums1, nums2) {
 
 intersection([1, 2, 2, 1], [2, 2]);
 
-// Time Complexity: O(N)
-// Space Complexity: O(1)
+// Time Complexity: O(N * M)
+// Space Complexity: O(N + M)
