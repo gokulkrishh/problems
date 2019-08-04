@@ -1,0 +1,19 @@
+{
+	"name": "daily-challenges",
+	"version": "1.0.0",
+	"repository": "git@github.com:gokulkrishh/daily-challenges.git",
+	"author": "gokulkrishh <krishnangokul9@gmail.com>",
+	"license": "MIT",
+	"dependencies": {},
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watch"
+	},
+	"devDependencies": {
+		"jest": "^24.8.0",
+		"@babel/plugin-proposal-throw-expressions": "^7.2.0",
+		"@babel/core": "^7.4.5",
+		"@babel/preset-env": "^7.4.5",
+		"babel-jest": "^24.8.0"
+	}
+}
