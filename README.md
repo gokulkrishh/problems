@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  73    |      85         |
+|  74    |      86         |
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@
 - [Hashing](#hashing)
 - [In Place](#in-place)
 - [Linked List](#linked-list)
+- [Math](#math)
 - [Numbers](#numbers)
 - [Search](#search)
 - [Stack and Queues](#stack-and-queues)
@@ -100,6 +101,13 @@
 |Mar 22 2018 | Remove all elements from a linked list of integers that have value val. | [Remove elements in Linked List](Linked%20List/7.remove_val_linked_list.js)|
 |Nov 19 2018 | Given a sorted linked list, delete all duplicates such that each element appear only once. | [Remove duplicates in Linked List](Linked%20List/8.remove_duplicates.js)|
 |Mar 24 2018 | iven a binary tree, flatten it to a linked list in-place. | [Binary Tree to Linked List](Linked%20List/9.binary_tree_to_linked_list.js)|
+
+
+## [Math](./Math)
+
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Aug 29 2019 | Find the original price of a product before sales discount. | [Find original price](Numbers/1.find_original_price.js)|
 
 ## [Numbers](./Numbers)
 
