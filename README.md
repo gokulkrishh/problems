@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  74    |      86         |
+|  75    |      87         |
 
 ## Table of Contents
 
@@ -121,6 +121,7 @@
 |Feb 25 2019 | Implement atoi which converts a string to an integer.  | [String To Number](Numbers/6.string_to_integer.js)|
 |Mar 19 2019 | Write an algorithm to determine if a number is "happy".  | [Happy Number](Numbers/7.happy_numbers.js)|
 |Mar 28 2019 | Find All Numbers Disappeared in an Array.  | [Find Disappeared in an Array](Numbers/8.find_disappearing_numbers.js)|
+|Sep 09 2019 | A self-dividing number is a number that is divisible by every digit it contains.  | [Self Dividing Numbers](Numbers/9.self_dividing_numbers.js)|
 
 ## [Search](./Search)
 
