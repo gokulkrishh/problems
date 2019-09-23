@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  76    |      88        |
+|  77    |      89        |
 
 ## Table of Contents
 
@@ -50,7 +50,8 @@
 |Apr 15 2019 | Given an array, rotate the array to the right by k steps, where k is non-negative.  | [Rotate Array](Array/18.rotate_array.js)|
 |May 21 2019 | Given two arrays, write a function to compute their intersection.  | [Intersection of Two Arrays](Array/19.intersection_of_numbers.js)|
 |Jun 25 2019 | Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.  | [Sort Array By Parity](Array/20.sort_by_parity.js)|
-|Sep 10 2019 | Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist.  | [Find Duplicate Numbers](Array/21.find_duplicate_number.js)|
+|Sep 10 2019 | Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. | [Find Duplicate Numbers](Array/21.find_duplicate_number.js)|
+|Sep 23 2019 | Given a set of distinct integers, nums, return all possible subsets (the power set). | [Subsets](Array/22.subsets)|
 
 ## [Bit Manipulation](./Bit%20Manipulation)
 
