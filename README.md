@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  77    |      89        |
+|  78    |      90        |
 
 ## Table of Contents
 
@@ -18,6 +18,7 @@
 - [Linked List](#linked-list)
 - [Math](#math)
 - [Numbers](#numbers)
+- [Recursion](#recursion)
 - [Search](#search)
 - [Stack and Queues](#stack-and-queues)
 - [Strings](#strings)
@@ -124,6 +125,11 @@
 |Mar 19 2019 | Write an algorithm to determine if a number is "happy".  | [Happy Number](Numbers/7.happy_numbers.js)|
 |Mar 28 2019 | Find All Numbers Disappeared in an Array.  | [Find Disappeared in an Array](Numbers/8.find_disappearing_numbers.js)|
 |Sep 09 2019 | A self-dividing number is a number that is divisible by every digit it contains.  | [Self Dividing Numbers](Numbers/9.self_dividing_numbers.js)|
+
+## [Recursion](./Recursion)
+| Date | Problems |     Solutions     |
+| :------------: | :------------: | :----------: |
+|Sep 30 2019 | Find number of ways a frog can jump (1 feet jump or 2 feet jump) to make it across the river. | [Frog Jump](Recursion/1.frog_jump)|
 
 ## [Search](./Search)
 
