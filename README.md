@@ -4,7 +4,7 @@
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  78    |      90        |
+|  79    |      91        |
 
 ## Table of Contents
 
@@ -53,6 +53,7 @@
 |Jun 25 2019 | Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.  | [Sort Array By Parity](Array/20.sort_by_parity.js)|
 |Sep 10 2019 | Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. | [Find Duplicate Numbers](Array/21.find_duplicate_number.js)|
 |Sep 23 2019 | Given a set of distinct integers, nums, return all possible subsets (the power set). | [Subsets](Array/22.subsets)|
+|Oct 03 2019 | Given a lowercase string that has a-z chars only and no spaces, return the length of the longest vowel substring. | [Longest Vowel Chain](Array/23.longest_vowel_chain)|
 
 ## [Bit Manipulation](./Bit%20Manipulation)
 
