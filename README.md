@@ -1,4 +1,6 @@
-# Data Structure and Algorithms Problems
+# Contents are moved to [Data Structure and Algorithms repo](https://github.com/gokulkrishh/data-structures-and-algorithms)
+
+# Pls this that repo instead of this.
 
 > At least one problem a day, keeps your lazy brain away (Mostly weekdays) :P
 
